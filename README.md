@@ -139,7 +139,8 @@ Invoices are saved locally and can be viewed at any time.
 
 ## 🙌 Contributors
 
-- Khubaib Shaikh
+- Khubaib Shaikh ([GitHub](https://github.com/kas021)) - Project lead
+- Rafay Mohammad ([GitHub](https://github.com/Rafay-Mo)) - Major bug fixes and app architecture
 - Other members of the Synthetiq team
 
 *If you want to be credited publicly, you can open a pull request.*
